@@ -1,0 +1,14 @@
+D:\xac-thuc\WebApp\ClassLibrary\bin\Debug\net7.0\ClassLibrary.deps.json
+D:\xac-thuc\WebApp\ClassLibrary\bin\Debug\net7.0\ClassLibrary.dll
+D:\xac-thuc\WebApp\ClassLibrary\bin\Debug\net7.0\ClassLibrary.pdb
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfo.cs
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\ClassLibrary.dll
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\refint\ClassLibrary.dll
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\ClassLibrary.pdb
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\ref\ClassLibrary.dll
+D:\xac-thuc\WebApp\ClassLibrary\bin\Debug\net7.0\ClassLibrary.runtimeconfig.json
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\xac-thuc\WebApp\ClassLibrary\obj\Debug\net7.0\ClassLibrary.genruntimeconfig.cache
